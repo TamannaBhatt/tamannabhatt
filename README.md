@@ -20,21 +20,30 @@ I'm passionate about building real-world ML models and learning by doing — one
 
 ## 🧰 Tech Stack
 
+### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+### Database:
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+### CS Fundamentals:
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat)
 
 ---
 
 ## 📚 Currently Learning
 
-- Naive Bayes, Decision Trees & KNN
-- Scikit-Learn, Pandas, and Numpy
-- Hands-On ML with Scikit-Learn
-- Git & GitHub for version control
+-- 📊 ML Algorithms: Naive Bayes, Decision Trees, KNN
+- 🤖 Generative AI: Concepts, applications & hands-on experimentation
+- 🔧 Libraries: Scikit-Learn, Pandas, NumPy
+- 🛠️ Tools: Git & GitHub
 
 ---
 
