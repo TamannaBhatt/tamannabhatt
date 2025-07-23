@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Tamanna Bhatt (aka Manna) 👋</h1>
+<h1 align="center">Hi, I'm Tamanna Bhatt 👋</h1>
 <p align="center">
 💻 Pursuing B.Tech in CSE(AI/ML) <br>
 🎓 3rd Year Student at GBPIET<br>
-🌱 Currently learning ML
+🌱 Currently learning ML and Data Science
 </p>
 
 ---
