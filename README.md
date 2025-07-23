@@ -2,7 +2,7 @@
 <p align="center">
 💻 Pursuing B.Tech in CSE(AI/ML) <br>
 🎓 3rd Year Student at GBPIET<br>
-🌱 Currently learning ML with CampusX & Hands-On ML with Scikit-Learn
+🌱 Currently learning ML
 </p>
 
 ---
@@ -12,7 +12,6 @@
 I'm passionate about building real-world ML models and learning by doing — one line of code at a time.
 
 ### 🔧 Projects & Work
-- 🔍 Implemented **Naive Bayes from scratch** (Play Tennis dataset)
 - 🏥 Contributed to **HealthEase** – Smart India Hackathon 2023 (PS 1620)
 - 💡 Exploring machine learning through tutorials, books & projects
 
