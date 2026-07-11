@@ -33,16 +33,26 @@ I'm passionate about building real-world ML models and learning by doing — one
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 
 ### CS Fundamentals:
-![DSA](https://img.shields.io/badge/-DSA-black?style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-black?style=flat)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-black?style=flat)
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-black?style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-black?style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-black?style=flat)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat)
+![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-black?style=flat)
 
 ---
 
 ## 📚 Currently Learning
 
--- 📊 ML Algorithms: Naive Bayes, Decision Trees, KNN
-- 🤖 Generative AI: Concepts, applications & hands-on experimentation
-- 🔧 Libraries: Scikit-Learn, Pandas, NumPy
-- 🛠️ Tools: Git & GitHub
+- 🤖 Advanced Computer Vision & Deep Learning (CNNs, GANs, Vision Transformers)
+- 🛰️ Generative AI & Multimodal AI Applications
+- 📊 Model Training, Fine-tuning & Performance Evaluation (PyTorch)
+- ☁️ AI for Remote Sensing & Medical Image Analysis
+- 🔧 MLOps Basics, Git/GitHub & Project Deployment
+- 🚀 Building End-to-End AI Projects with OpenCV, MediaPipe & PyTorch
 
 ---
 
@@ -51,7 +61,7 @@ I'm passionate about building real-world ML models and learning by doing — one
 Feel free to reach out — I love connecting with fellow learners!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamanna-bhatt-6335632a6) 
-📧 Email: `tamannabhatt204@example.com` 
+📧 Email: `tamannabhatt204@gmail.com` 
 
 ---
 
